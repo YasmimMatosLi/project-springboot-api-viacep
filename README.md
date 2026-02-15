@@ -60,7 +60,7 @@ Associa ao cliente
 
 Clone o repositório:
 
-git clone https://https://github.com/YasmimMatosLi/project-springboot-api-viacep.git
+git clone https://github.com/YasmimMatosLi/project-springboot-api-viacep.git
 
 
 📌 Endpoint Principal
